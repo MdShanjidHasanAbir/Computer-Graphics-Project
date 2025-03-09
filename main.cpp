@@ -1,18 +1,4 @@
 
-/*
-COMPUTER GRAPHICS
------------------------
-SECTION - J
------------------------
-1.MD SHANJID HASAN ABIR ---	22-47202-1
-2.MD TANVIR RAHMAN MOLLA ---	22-46052-1
-3.MD ASAD-UZ-ZAMAN ---	22-46582-1
-4.S.M. SAYED ARIFIN OMI---	22-46613-1
-
-
-
-*/
-
 
 #include<windows.h>
 #include<mmsystem.h>
